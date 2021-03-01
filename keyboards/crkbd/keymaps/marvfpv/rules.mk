@@ -1,0 +1,2 @@
+OLED_DRIVER_ENABLE  = no
+COMBO_ENABLE = yes
