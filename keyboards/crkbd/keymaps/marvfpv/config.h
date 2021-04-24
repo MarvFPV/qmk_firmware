@@ -33,7 +33,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define IGNORE_MOD_TAP_INTERRUPT
 #define TAPPING_TERM 170
 
-#define COMBO_COUNT 5
+#define COMBO_COUNT 6
 #define COMBO_TERM 27
 
 #ifdef RGBLIGHT_ENABLE
